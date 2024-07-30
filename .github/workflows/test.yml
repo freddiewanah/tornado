@@ -7,7 +7,7 @@
 
 name: Test
 
-on: pull_request
+on: push
 
 jobs:
   # Before starting the full build matrix, run one test configuration
